@@ -1,3 +1,3 @@
-module github.com/chernysh-denis/utils
+module github.com/chernysh-denis/utils/v2
 
 go 1.15
